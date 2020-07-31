@@ -1,7 +1,7 @@
 package org.james.model;
 
 public class User {
-    
+    //private fields
     private String name;
     private int age;
     
